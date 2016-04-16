@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ornate-acronym-128307",
+  "private_key_id": "b20452eb8b6f942dd629f0320e0f2db82a759689",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcmYtGp6RZpSni\nBInPdUZ40y+w/2tfeaL0j+lnRN2yi5SHHA+0jR6AKloTtJsdKfn9wI4SCvQdbWMZ\nx26tcH+lVsQveWfWM5IFH6vw/V/VGHhLSqXNOCAjmS9d1iAm7HbZMbrXQejlvpnp\n5cZriKNmx6QU1UORbSKOWD3pjkvdBFn2bc0qyh8PHv5a2sPGSD4/RDQu3BDLMBtD\nM8PoMDjTQ0H1IKIuYrq7QoSgUhXuCFsD3b3j8mhqDAUPd/JrEnlENwbGCWf/J6eo\nfUlYxFIa/tCyxZQGsDe0BWxJE93ZEX4ANHGekgVLlRsnTRIU0NkG/2AnlXDRZ8ND\n1KuVkuKjAgMBAAECggEAUE+GV+Pdq4PCqQD+1AAm9gwIZ1N2c25kHdw4LRfqQojG\n0UuY2lWNENmnfHehHSHL7VD1C1fGvdi9fBkFL7mEHP0Ue+xdTkMAXdRST7MBlL2J\n48MSqN5hzR/gZNVNg+i9QsH4OjC5CinnsUZ/reJTOoCkK3L7xfccQ7gJeF/blCq2\nZRKbz2ZRXpVrvV663lXYBSIFohAKnBkSIEbUEhYqjVZcqxEIUHpJwXpQyBW9sd8G\nz9d44x8yE2gchHDvNhNQfXQ4rcYqDFOP0GZlI256VmYhC2oFQlqyJAeClrm0GAQP\ngpvk5Fae7QRNJkeoR+EgIWIFVxeqA7uwLukMMkulkQKBgQD7gjTKuma85EQ/PwTQ\n2+rRn792UtPtQLdxV4UHgRH/9Esqu7NciIhW9wI3FcpMtKoe4oJ/nbfkmMVHqioK\ngJmJatbfxTe1w+d65Vl+QpPLzkc8NONWOrT+qkVqK84jTHhAbmxBdHMbu9Q6F+KW\n6/emvuaq6wHbUplDaYkYPRZ+DQKBgQCfZXQnm90js/NUvfKd28AilKBO/S64Zvbf\nQiAxX9Wo6ue+vKapXthJI98oEEMJ5L18Mi/1i3boKAewTk5KFqk1L7qvNN2kA8nL\nNPK6wfNsr3UeyRVvrxGBd9h739ky1ea8u/ASyt52+joHx42XFhHpL+eLMuFbrF9b\nIqFJUMdnbwKBgQDHEiN5BxtEjaTbLqVAL6FodHoWTK8DzkKkirJ34xh9MD7CvzjT\nmBnaQ77UHQI3vpQcyAqkuhCQ9r7H349RKsLcOt2C1tYmn747zwcL4eSb31UQ+Yer\ne+JA5EL3K18JH4Da9svm7yYhIIV1yewGqxUlPVrUlBivIWzAJ+tkbQ29jQKBgF9z\n0+E8V2tgAeHHdhjOVfrfYjirKWVIU6JS6RBoQXzMX0c7ldprb74s+x/0zRCJqGdN\nbqbug6B3CFOuMPfxJhcxo+v0Dp5/nkJQTONF7k4xrENpS6r7/dG4QS29WUY2Dd0L\n9rJqRlqdck7iU4ocr1EjXNdg+s95JAlhbZCIDUGFAoGAWOkewmyBqb6Owlw1nrHT\nkuLcRDaluY5YPDvzTDiYkEaCNSiVd881rWxT/Pi7DG24dc14Tap8yENFoWSU7gFw\nfsIkYS1HuiuXziEFDhQ4VARJzjQKWE6XNqGcI5Xp4MJaGIP+mcfEjmMN4rCbIaIC\nS67yjDo1WQpoPScRrg3wZlA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myntra-hackathon-ashutosh@ornate-acronym-128307.iam.gserviceaccount.com",
+  "client_id": "103035350764517630457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myntra-hackathon-ashutosh%40ornate-acronym-128307.iam.gserviceaccount.com"
+}
